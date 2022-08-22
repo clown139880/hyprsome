@@ -7,8 +7,6 @@ import (
 	"strconv"
 )
 
-// var targetWorkspace = flag.Int64("workspace", 0, "The workspace to target")
-
 func main() {
 	flag.Parse()
 	hyprcommand := flag.Arg(0)

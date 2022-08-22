@@ -5,7 +5,7 @@ each monitor has workspace 1,2,3,4,5...
 ## 1. install hyprsome
 
 ```
-go install github.com/clown139880/hyprsome
+go install github.com/clown139880/hyprsome@latest
 ```
 
 ## 2. config your hyprland

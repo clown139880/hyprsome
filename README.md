@@ -11,6 +11,8 @@ go install github.com/clown139880/hyprsome@latest
 ## 2. config your hyprland
 
 ```
+workspace=DP-1,1
+workspace=HDMI-A-1,11
 bind=SUPER,1,exec,hyprsome workspace 1
 bind=SUPER,2,exec,hyprsome workspace 2
 bind=SUPER,3,exec,hyprsome workspace 3
